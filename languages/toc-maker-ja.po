@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Table of contents Maker\n"
+"POT-Creation-Date: 2024-05-18 14:47+0900\n"
+"PO-Revision-Date: 2024-05-18 14:49+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toc-maker.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/settings/admin.php:14
+msgid "Setting Up Table of contents Maker"
+msgstr "Table of contents Makerの設定"
+
+#: inc/settings/admin.php:38
+msgid "Select image"
+msgstr "画像を選択"
+
+#: inc/settings/admin.php:39
+msgid "Copied"
+msgstr "コピーしました"
+
+#: inc/settings/admin.php:50 inc/settings/content/settings-main.php:20
+#: inc/settings/content/settings-wrap.php:25
+msgid "Settings"
+msgstr "設定"
+
+#: inc/settings/admin.php:85
+msgid "Contents"
+msgstr "目次"
+
+#: inc/settings/content/settings-environment.php:88
+#: inc/settings/content/settings-wrap.php:26
+msgid "Usage environment"
+msgstr "使用環境"
+
+#: inc/settings/content/settings-environment.php:121
+msgid "Copy"
+msgstr "コピー"
+
+#: inc/settings/content/settings-main.php:24
+msgid "Hierarchical display"
+msgstr "階層表示"
+
+#: inc/settings/content/settings-main.php:36
+msgid "Number display"
+msgstr "番号表示"
+
+#: inc/settings/content/settings-main.php:48
+msgid "Hide at first"
+msgstr "最初は隠す"
+
+#: inc/settings/content/settings-main.php:60
+msgid "Position"
+msgstr "位置"
+
+#: inc/settings/content/settings-main.php:64
+msgid "before the first heading"
+msgstr "最初の見出しの前"
+
+#: inc/settings/content/settings-main.php:65
+msgid "after the first heading"
+msgstr "最初の見出しの後"
+
+#: inc/settings/content/settings-main.php:66
+msgid "before content"
+msgstr "本文の前"
+
+#: inc/settings/content/settings-main.php:72
+msgid "Minimum number of headings"
+msgstr "見出しの最小数"
+
+#: inc/settings/content/settings-main.php:88 inc/widget/widget-toc.php:62
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/settings/content/settings-main.php:91
+msgid "Eg: Contents"
+msgstr "例: コンテンツ"
+
+#: inc/settings/content/settings-main.php:96
+msgid "Post types to auto insert"
+msgstr "自動挿入する投稿タイプ"
+
+#: inc/settings/content/settings-main.php:113
+msgid "Appearance"
+msgstr "外観"
+
+#: inc/settings/content/settings-main.php:129
+msgid "Update"
+msgstr "更新"
+
+#: inc/settings/content/settings-wrap.php:56
+msgid "Settings updated successfully."
+msgstr "設定が正常に更新しました。"
+
+#: inc/settings/content/settings-wrap.php:85
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: inc/toc.php:30
+msgctxt "toc"
+msgid "Table of contents"
+msgstr "目次"
+
+#: inc/widget/widget-toc.php:15
+msgid "[Table of contents Maker] Table of contents"
+msgstr "[Table of contents Maker] 目次"
+
+#: inc/widget/widget-toc.php:16
+msgid "Support table of contents for Widget"
+msgstr "ウィジェットに目次を表示する"
+
+#. Plugin Name of the plugin/theme
+msgid "Table of contents Maker"
+msgstr "Table of contents Maker"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://zipang.dev/"
+msgstr "https://zipang.dev/"
+
+#. Description of the plugin/theme
+msgid ""
+"Table of contents Maker is a plugin that checks the headings in an article "
+"and automatically inserts a table of contents."
+msgstr ""
+"Table of contents Makerは記事の見出しをチェックして目次を自動挿入するプラグ"
+"インです。"
+
+#. Author of the plugin/theme
+msgid "ZIPANG"
+msgstr "ZIPANG"

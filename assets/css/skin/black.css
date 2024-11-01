@@ -1,0 +1,14 @@
+.toc_maker_nav {
+  background-color: #000;
+  color: #fff;
+}
+.toc_maker_nav a {
+  color: #fff;
+}
+.toc_maker_nav a:hover {
+  color: #07a;
+}
+
+.toc_maker_caret svg {
+  fill: #fff;
+}
